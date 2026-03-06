@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-        <footer className="flex flex-wrap justify-center lg:justify-between overflow-hidden gap-10 md:gap-20 py-16 px-6 md:px-16 lg:px-24 xl:px-32 text-[13px] text-gray-500 bg-gradient-to-r from-white via-green-200/60 to-white mt-40">
-            <div className="flex flex-wrap items-start gap-10 md:gap-[60px] xl:gap-[140px]">
+        <footer className="flex flex-wrap justify-center lg:justify-between overflow-hidden gap-10 md:gap-20 py-16 px-6 md:px-16 lg:px-24 xl:px-32 text-[13px] text-gray-500 bg-linear-to-r from-white via-green-200/60 to-white mt-40">
+            <div className="flex flex-wrap items-start gap-10 md:gap-15 xl:gap-35">
                 <a href="https://prebuiltui.com">
                     <img src="/logo.svg" alt="Logo" className="h-11 w-auto" />
                 </a>
